@@ -43,17 +43,29 @@ Hardware
 
 Software 
 Firewall – next generation firewall 
+
 Office 365 - 
+
 Anti-virus 
+
 VPN - 
+
 Website - 
+
 Cloud server - 
-My-Mediset - 
-Laws 
+
+My-Mediset - stock management software
+
+**Laws **
+
 Data protection act - 
+
 Health and safety act - 
+
 Equal pay act - 
+
 Genral data protection regulations -
+
 
 The digital technologies that might be used in the dental office include CAD/CAM (computer-assisted design, computer-assisted manufacture), cone beam CT, digital X-rays, intra-oral camera, dental lasers, and optical scanners, among them.
 
