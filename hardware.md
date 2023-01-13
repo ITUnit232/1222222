@@ -19,7 +19,7 @@ Hardware
 
 •	Alternative - DrayTek Vigor
 
-
+- Hub
 4.	Switch 
 
 
